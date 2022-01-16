@@ -2,6 +2,8 @@
 
 Primeiro abra a pasta do projeto em seu IDE, logo em seguida abra o terminal do seu IDE e instale as dpedências do projeto com o comando npm install ou yarn install. Com as dependências já instaladas, digite no terminal do IDE npm start ou yarn start.
 
+![image](https://user-images.githubusercontent.com/80259818/149669617-8620e0c9-cda2-4688-9b14-692046d9eaa5.png)
+
 Tecnologias usadas> React, Css com styled components e typescript.
 
 Nesse projeto trouxe o que existe de mais atual no mercado em questão de tecnologia.
