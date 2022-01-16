@@ -1,8 +1,16 @@
 # Como iniciar a aplicação ?
+Baixe o arquivo clicando em download zip e extraia em uma pasta
+![image](https://user-images.githubusercontent.com/80259818/149670467-aeba569f-aff8-4a7b-9544-2cfd277a3711.png)
 
-Primeiro abra a pasta do projeto em seu IDE, logo em seguida abra o terminal do seu IDE e instale as dpedências do projeto com o comando npm install ou yarn install. Com as dependências já instaladas, digite no terminal do IDE npm start ou yarn start.
+
+Depois abra a pasta do projeto em seu IDE, logo em seguida abra o terminal do seu IDE e instale as dpedências do projeto com o comando npm install ou yarn install.
 
 ![image](https://user-images.githubusercontent.com/80259818/149669617-8620e0c9-cda2-4688-9b14-692046d9eaa5.png)
+
+ Com as dependências já instaladas, digite no terminal do IDE npm start ou yarn start.
+![image](https://user-images.githubusercontent.com/80259818/149670392-c69b24b8-4477-44da-8d02-c66a3e0585d7.png)
+
+Dando tudo certo ele abrirá no navegador uma guia já com o projeto
 
 Tecnologias usadas> React, Css com styled components e typescript.
 
