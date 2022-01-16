@@ -1,6 +1,6 @@
 # Como iniciar a aplicação ?
 
-Primeiro abra a pasta do projeto em seu IDE, logo em seguida abra o terminal do seu IDE e instale as dpedências do projeto com o comoando npm install ou yarn init. Com as dependências já instaladas, digite no terminal do IDE npm start ou yarn start.
+Primeiro abra a pasta do projeto em seu IDE, logo em seguida abra o terminal do seu IDE e instale as dpedências do projeto com o comando npm install ou yarn init. Com as dependências já instaladas, digite no terminal do IDE npm start ou yarn start.
 
 Tecnologias usadas> React, Css com styled components e typescript.
 
