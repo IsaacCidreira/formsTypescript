@@ -1,46 +1,15 @@
-# Getting Started with Create React App
+# Como iniciar a aplicação ?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Primeiro abra a pasta do projeto em seu IDE, logo em seguida abra o terminal do seu IDE e instale as dpedências do projeto com o comoando npm install ou yarn init. Com as dependências já instaladas, digite no terminal do IDE npm start ou yarn start.
 
-## Available Scripts
+Tecnologias usadas> React, Css com styled components e typescript.
 
-In the project directory, you can run:
+Nesse projeto trouxe o que existe de mais atual no mercado em questão de tecnologia.
 
-### `yarn start`
+O uso do typescript seja em qualquer projeto é de suma importância, ele gera uma otima escalabilidade a longo prazo no projeto e evita diversos erros.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O react é o framework do momento e tende a ficar cada vez mais utilizado com o next.js, por isso quis mostrar seu potencial.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O styled-components é uma forma de usar css como se fosse um SASS, só que com mais poder, com ele você consegue utilizar até mesmo javascript dentro do css, outra coisa são as questões dos themes que trago também no projeto que são muito importantes para escalabilidade do projeto.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Trouxe também as questões de validação, nos forms o usuário só é liberado se passar na validação feita. Na primeria tela, somente será possível passar para a próxima se tiver os campos de nome, telefone, senha e email digitados e na segunda tela somente se tiver algo selecionado.
