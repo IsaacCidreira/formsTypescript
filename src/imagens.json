@@ -1,0 +1,13 @@
+{
+  "imagens": [
+    {
+      "imagem": "../../components/assets/images/rh.svg"
+    },
+    {
+      "imagem": "../../components/assets/images/financeiro.svg"
+    },
+    {
+      "imagem": "../../components/assets/images/atendimento.svg"
+    }
+  ]
+}
